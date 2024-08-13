@@ -11,6 +11,6 @@ In order to run the application code, you need to follow the given steps-
 
 NOTE- You may need to change the dataset path in the code when working on kaggle. Just hover on dataset on Right Side and Hit Copy location button.
 
-CREATED BY-     Vatsal Gohil	(2020300014)
-		Arya Gupta 	(2020300017)
+CREATED BY-     Vatsal Gohil	(2020300014),
+		Arya Gupta 	(2020300017) &
 		Prabhat Mattoo 	(2020300036)
